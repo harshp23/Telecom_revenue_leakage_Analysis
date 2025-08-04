@@ -78,9 +78,4 @@ To detect revenue leakage by identifying users whose actual revenue is lower tha
 - Identified top user segments and weeks with poor conversions
 
 
-## 📌 Author
-
-- 👤 Harsh Patil
-- 📧 [Your Email or LinkedIn]
-- 🌐 Smart Data Projects with Business Value
 
