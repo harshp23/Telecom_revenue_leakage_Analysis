@@ -16,7 +16,7 @@ A Power BI + Python project that identifies and visualizes revenue leakage patte
 
 ---
 
-## 🧠 Project Objective
+##  Project Objective
 
 To detect revenue leakage by identifying users whose actual revenue is lower than expected, based on segmentation and behavioral metrics. The insights can guide:
 - Customer retention strategies
@@ -24,7 +24,7 @@ To detect revenue leakage by identifying users whose actual revenue is lower tha
 
 ---
 
-## ⚙️ Data Pipeline
+##  Data Pipeline
 
 1. **Data Cleaning**  
    - Merged and filtered 3 raw CSVs  
@@ -42,7 +42,7 @@ To detect revenue leakage by identifying users whose actual revenue is lower tha
 
 ---
 
-## 📊 Power BI Dashboard Features
+## Power BI Dashboard Features
 
 - **Total Revenue vs Leakage** by Segment
 - **Leakage % by Age Group**
@@ -51,7 +51,7 @@ To detect revenue leakage by identifying users whose actual revenue is lower tha
 - **Time-Based Trends** (weekly)
 - **Stacked Column Revenue (Leaked vs Non-Leaked)**
 
-### 🛠 Filters Applied:
+###  Filters Applied:
 - User Segment
 - Age Group
 - Region
@@ -62,7 +62,7 @@ To detect revenue leakage by identifying users whose actual revenue is lower tha
 
 ---
 
-## ⚠️ Challenges Faced
+##  Challenges Faced
 
 - Original dataset was over 11 million rows — slow to process in Power BI , but after anlysis i found that it only 97k users have active weeks and revenue , other has null values and missing values.
 - So many null values in all files
@@ -71,7 +71,7 @@ To detect revenue leakage by identifying users whose actual revenue is lower tha
 
 ---
 
-## ✅ Results
+##  Results
 - Total users are 97k with Total revenue is $17M ,
 - Leaked users are 14k with Leaked revenue of 133k
 - Detected **14% high usage low revenue users**
