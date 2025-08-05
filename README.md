@@ -10,9 +10,9 @@ A Power BI + Python project that identifies and visualizes revenue leakage patte
 - Provided by: Krishna Cheedella
 - Contains:  
   - `crm1.csv` — User data  
-  - `device.csv` — Revenue details per user/week  
-  - `rev1.csv` — Session-level behavior  
-- Total Rows: Over **11 million records** combined across files
+  - `rev1.csv` — Revenue details per user/week  
+  - `device1.csv` — Device information
+- Total Rows: Over **4 million records** combined across files
 
 ---
 
